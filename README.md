@@ -1,8 +1,6 @@
-# JavaScript-to-DSA
+# 🚀 JavaScript to DSA
 JavaScript + DSA | Daily Question Solving | Logic Building | Consistency | GitHub Journey
 
-
-# 🚀 JavaScript to DSA
 
 > Mastering JavaScript Fundamentals before diving into Data Structures & Algorithms.
 
